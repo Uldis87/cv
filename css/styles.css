@@ -1,0 +1,17 @@
+body{
+    background-color: aliceblue;
+}
+hr{
+    border-color: rgb(125, 103, 103);
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 2%;
+}
+h1{
+    color: cadetblue;
+}
+h2{
+    color: cadetblue;
+    font-style: italic;
+}
